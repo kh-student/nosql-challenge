@@ -13,4 +13,4 @@
 
 #### Part 3: Exploratory Analysis
 - All data used to perform the exploratory analysis will be pulled from the ```establishments.json```, located in the ```Resources``` folder.
-- Part 3 can be found in the Jupyter notebook file titled ```NoSQL_setup_analysis.ipynb```.
+- Part 3 can be found in the Jupyter notebook file titled ```NoSQL_analysis_starter.ipynb```.
